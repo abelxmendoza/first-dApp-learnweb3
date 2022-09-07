@@ -119,6 +119,7 @@ OPTIONAL: Inside the `<head>` tag, add some styles to make it look nicer
     lite-server
     ```
 
+
 9.  Go to [http://127.0.0.1:3000/](http://127.0.0.1:3000/) in your browser to see your page!
 
 10. Your front end is now complete!
